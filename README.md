@@ -2,6 +2,9 @@
 
 ![imgonline-com-ua-twotoone-GfN8fEh3jt](https://github.com/urvilatnekar/Face_Recognition_using_FaceNet_and_SVM/assets/30819058/0a6f1ec4-e9fe-4e9b-8270-f26eb4e365c6)
 
+Download the pre-trained model 
+
+`https://www.kaggle.com/datasets/suicaokhoailang/facenet-keras`
 
 Open the Command Prompt by pressing Win + R, typing "cmd", and pressing Enter.
 
