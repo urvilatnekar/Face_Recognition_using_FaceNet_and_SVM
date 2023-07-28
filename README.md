@@ -22,3 +22,7 @@ Activate the virtual environment:
 Install the project requirements using pip:
 
 `pip install -r requirements.txt`
+
+Run
+
+`python engine.py`
